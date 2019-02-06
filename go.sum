@@ -42,6 +42,8 @@ github.com/hatajoe/hooks v0.0.0-20190206135611-65cf8828cd54 h1:kvalpf+bGSg2dMjD0
 github.com/hatajoe/hooks v0.0.0-20190206135611-65cf8828cd54/go.mod h1:BS/hrR8rUHbzFtiypBspy1IMlEgUBpNJOJM0yZWdYEo=
 github.com/hatajoe/hooks v0.0.0-20190206135810-2a46bf4b196c h1:4cGaIpL8li7vtxGpXSTKaZESFsUpg6XC7z9hyTP0984=
 github.com/hatajoe/hooks v0.0.0-20190206135810-2a46bf4b196c/go.mod h1:BS/hrR8rUHbzFtiypBspy1IMlEgUBpNJOJM0yZWdYEo=
+github.com/hatajoe/hooks v0.0.0-20190206161431-f6a048e87017 h1:p7AjVoXtAR8cGocI/I3MMODLG/gizHrQwN/QQaEKcKg=
+github.com/hatajoe/hooks v0.0.0-20190206161431-f6a048e87017/go.mod h1:BS/hrR8rUHbzFtiypBspy1IMlEgUBpNJOJM0yZWdYEo=
 github.com/ianlancetaylor/demangle v0.0.0-20181102032728-5e5cf60278f6/go.mod h1:aSSvb/t6k1mPoxDqO4vJh6VOCGPwU4O0C2/Eqndh1Sc=
 github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
 github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=

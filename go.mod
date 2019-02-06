@@ -2,7 +2,7 @@ module github.com/hatajoe/minibot
 
 require (
 	github.com/google/go-github/v22 v22.0.0
-	github.com/hatajoe/hooks v0.0.0-20190206135810-2a46bf4b196c
+	github.com/hatajoe/hooks v0.0.0-20190206161431-f6a048e87017
 	github.com/joho/godotenv v1.3.0
 	github.com/lusis/slack-test v0.0.0-20180109053238-3c758769bfa6 // indirect
 	github.com/mattn/go-runewidth v0.0.4 // indirect
